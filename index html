@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UFT-8">
+  <title> Mi pagina HTML</title>
+</head>
+<body>
+ <!-- estas son las eiquetas  de encavezado en HTML -->
+ <h1>cat.cat</h1>
+ <h2> Soc un gat </h2>
+ <h3> m'agrada jugar amb catala</h3>
+ <h4> m'agrada menjar canelons</h4>
+ <h5> m'agrada dormir molt</h5>
+ <h6> ai perdona el meu nom es gaxet</h6>
+ <h7> vine a jugar i aprende catala amb mi</h7>
+ <p>apren catala amb el teu gat.</p> 
+ <img src="https://imgs.search.brave.com/zTUyksxhez5LXXyqBBCTGB5lWCW6D5nYwfdRA6PoUt0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA4/MjI2NjI2L2VzL2Zv/dG8vZmVsaW5vLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1O/MkZUdS1NeTltSHNQ/ZVhfQmN5dVpybzZr/alZ3N0hDWDFLandk/X09ERVVnPQ" alt="gato">
+ <!--lista ordenada: -->
+ <ol>
+     <li>jugar</li>
+    <li>llegir</li>
+    
+ </ol>
+</body>
+</html>
